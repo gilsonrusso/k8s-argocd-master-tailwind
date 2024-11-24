@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: web-app
-          image: "gilsonrusso/master-tailwind:latest"
+          image: "gilsonrusso/master-tailwind:v22"
           resources:
             requests:
               memory: "64Mi"
